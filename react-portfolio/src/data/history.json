@@ -1,0 +1,26 @@
+[
+    {
+      "role": "Project Intern",
+      "organisation": "HAL Koraput",
+      "startDate": "June, 2024",
+      "endDate": "July, 2024",
+      "experiences":["Worked on Mail-Me Email designer using React.JS and JavaScript."],
+      "imageSrc": "HAL.jpeg"
+    },
+    {
+      "role": "Software Development Intern",
+      "organisation": "HashedBit Innovations",
+      "startDate": "July, 2024",
+      "endDate": "Sept, 2024",
+      "experiences":["Utilised JavaScript and React in interactive website based tasks."],
+      "imageSrc": "history/hashedbit_innovations_logo.jpeg"
+    },
+    {
+      "role": "Content Writing Intern",
+      "organisation": "Gauravgo Technologies",
+      "startDate": "May, 2022",
+      "endDate": "July, 2022",
+      "experiences":["Created content for social media posts,blogs and hosted webinars."],
+      "imageSrc": "history/Gauravgologo.jpeg"
+    }
+  ]

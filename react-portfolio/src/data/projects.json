@@ -1,0 +1,26 @@
+ [
+    {
+      "title": "Disney World",
+      "imageSrc": "projects/mov.png",
+      "description":"Provides detailed information on movies you search for.",
+      "skills": ["React", "JavaScript", " API"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Ishhh29/MovieWorld"
+    },
+    {
+      "title": "Aesthetica",
+      "imageSrc": "projects/Aes.png",
+      "description": "Online shopping website with different sections of multiple accessories. ",
+      "skills": ["HTML", "CSS", "Bootstrap"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Ishhh29/AESTHETICA"
+    },
+    {
+      "title": "Certificate Generator",
+      "imageSrc": "projects/cert.png",
+      "description":"Generates certificate with user input and enable downloading in pdf form.",
+      "skills": ["HTML", "JavaScript", "CSS", "Vercel"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Ishhh29/Certificate-Generator"
+    }
+  ]

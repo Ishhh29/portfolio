@@ -1,0 +1,34 @@
+[
+    {
+      "title": "JAVA",
+      "imageSrc": "skills/JAVA.png"
+    },  
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/Js.webp"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Tailwind",
+      "imageSrc": "skills/Tailwind.png"
+    }
+  ]
